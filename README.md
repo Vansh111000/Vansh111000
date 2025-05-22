@@ -71,9 +71,8 @@
 
 | Project | Description |
 |--------|-------------|
-| [**Smart Vending Machine**](https://github.com/yourusername/smart-vending-machine) | Arduino + Backend + Payment integration |
 | [**Healthcare Assistant App**](https://github.com/yourusername/TeamZenith-prac) | React Native + Flask backend + ML + DOCX reports |
-| [**Material Supply Website**](https://github.com/yourusername/material-supply-web) | B2B product listing, booking system, blogs, and payments |
+| [**Movies Mobile App**](https://github.com/yourusername/material-supply-web) | B2B product listing, booking system, blogs, and payments |
 
 ---
 
