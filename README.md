@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Kataria</h1>
-<h3 align="center">🚀 Full Stack Developer | Embedded Systems Enthusiast | Future "God-Level" Coder</h3>
+<h3 align="center">🚀 Full Stack Developer | Embedded Systems Enthusiast | Future "PRO" Coder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Reality;Learning+Every+Day;Building+Cool+Projects;Let's+Create+Something+Great!" />
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on: **Open Source** and **Freelance Projects**
 - 💼 I'm available for: **Frontend, Backend, or Full Stack projects**
 - ⚡ Fun fact: I love solving real-world problems with code  
-- 🧠 Goal: Become a **God-Level Developer** 💻💪
+- 🧠 Goal: Become a **Pro Developer** 💻💪
 
 ---
 
