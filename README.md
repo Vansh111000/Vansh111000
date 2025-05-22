@@ -37,13 +37,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh111000&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh111000&theme=radical" alt="streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh111000&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
 ---
