@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building: **[Your latest project name](#)**  
+- 🔭 I’m currently building: **Movies App(#)**  
 - 🌱 I’m leveling up in: `React`, `Three.js`, `GSAP`, `Arduino`, and `C`  
 - 👯 I’m looking to collaborate on: **Open Source** and **Freelance Projects**
 - 💼 I'm available for: **Frontend, Backend, or Full Stack projects**
