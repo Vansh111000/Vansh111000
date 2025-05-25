@@ -71,7 +71,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [**Healthcare Assistant App**](https://github.com/yourusername/TeamZenith-prac) | React Native + Flask backend + ML + DOCX reports |
+| [**Healthcare Assistant App**](https://github.com/Vansh111000/TeamZenith-prac) | React Native + Flask backend + ML + DOCX reports |
 | [**Movies Mobile App**](https://github.com/yourusername/material-supply-web) | All Movies, Details system, blogs, and Aesthatic UI |
 
 ---
