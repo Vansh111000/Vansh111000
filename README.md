@@ -51,7 +51,7 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vansh-kataria-a2056b22b target="_blank">
+  <a href="https://www.linkedin.com/in/vansh-kataria-a2056b22b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vansh.sk@somaiya.edu">
