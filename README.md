@@ -36,9 +36,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh111000&show_icons=true&theme=github_dark" alt="stats" />
-</p>
+
 
  <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vansh111000&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vansh111000&theme=2077" height="180em" /></p>
@@ -51,7 +49,7 @@
   </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh111000&layout=compact&theme=github_dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh111000&layout=compact&count_private=true&theme=github_dark" alt="top-langs" />
 </p>
 
 ---
