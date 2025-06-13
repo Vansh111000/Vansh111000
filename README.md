@@ -39,9 +39,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vansh111000&show_icons=true&theme=github_dark" alt="stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh111000&theme=github_dark" alt="streak" />
-</p>
+
+ <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vansh111000&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vansh111000&theme=2077" height="180em" /></p>
+
+<p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vansh111000&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vansh111000&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh111000&theme=2077" height="180em" /></p>
+
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh111000&theme=github_dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+  </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh111000&layout=compact&theme=github_dark" alt="top-langs" />
 </p>
